@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Perimeter Runner
+PURPOSE OF PROJECT: Education and Training
+DATE: 2-8-2023
+HOW TO START THIS PROJECT: Don't worry about it, I'm still figuring out Java myself. 
+AUTHOR: Naomi Eirlys
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
