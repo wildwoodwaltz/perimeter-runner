@@ -31,9 +31,19 @@ public class PerimeterRunner
         //return totalPerimeter
         return totalPerimeter;
     }
-    public int getNumPoints(){
-        //pass 
+    public int getNumPoints(Shape s){
+        //ToDo 
+        int numPoints = 0;
+        return numPoints;
     }
+
+    public double getAverageLength(Shape s){
+        //ToDo
+        double averageLength = 0;
+
+        return averageLength;
+    }
+
     public void testPerimeter()
     {
         FileResource fr = new FileResource();
